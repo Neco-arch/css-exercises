@@ -1,0 +1,22 @@
+.Number-1 {
+    background-color: rgb(255, 167, 167);
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 20px;
+}
+
+#Number-2 {
+    color: blue;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.Number-3 {
+    font-size: 32px;
+}
+
+#Number-4 {
+    background-color: hsl(120, 100%, 75%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: bold;
+}
